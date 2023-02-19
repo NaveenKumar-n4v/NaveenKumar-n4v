@@ -26,13 +26,13 @@ I am Naveenkumar (He/Him). I'm 21 and come from Chennai, India. I'm an adept �
 ### Loves:
 
 - ☕️ Coffee
-- 🍜 Noodles
+- ⛹️‍♂️ Gym
 - 🐶 Dogs
-- 🍎 Apple
-- ⛏ Minecraft
+- 🥤 Diet Coke
+- 🎯 Valorant
 - 🎮 Gaming in general
 - 📱 New/Futuristic tech
-- 🍕 Pizzas
+- 😋 Biriyani
 
 <br/>
 
@@ -40,7 +40,6 @@ I am Naveenkumar (He/Him). I'm 21 and come from Chennai, India. I'm an adept �
 
 ### Contact:
 
-<span>[📷 Instagram](https://www.instagram.com/sabeshbharathi/)</span>
-<span>[🐦 Twitter](https://twitter.com/sabeshbharathi)</span>
-<span>[🎖 Portfolio](https://sabesh.dev/home)</span>
-<span>[📝 Blog](https://sabesh.dev/blog)</span>
+<span>[📷 Instagram](https://www.instagram.com/nodotsandunderscores/)</span>
+<span>[🐦 Twitter](https://twitter.com/n4v33n1)</span>
+<span>[📝 LinkedIn](https://www.linkedin.com/in/naveenkumar-s-771aa620b/)</span>
