@@ -1,27 +1,27 @@
 # Hello y'all! 👋🏽
 
-I am Sabesh (He/Him). I'm 20 and come from Chennai, India. I'm an adept web/iOS developer architecting meaningful and elegent applications natively and on the web. I'm also a Apple  WWDC 2021 Swift Student Challenge winner. I feel like it's every consumer's necessity to experience quality products, with a robust feature-set whilst enjoying a hassle-free and accessible User Experience ☄️ I strive to make that possible in every product I develop/design. Cheers! 🍻
+I am Naveenkumar (He/Him). I'm 21 and come from Chennai, India. I'm an adept 🫀 Competitive programmer and web developer architecting meaningful and elegant applications on the web. I'm also an educator of data structures and algorithms. ☄️I love to code and strive to make that possible in every product I develop/design. Cheers! 🍻
 
 ---
 
 <img alt="Coder gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right"/>
 
-### Built projects on:
+### Tools:
 
-- ⚡️ Core JS
-- ⚛️ ReactJS + ▲ NextJS
-- 🦅 SwiftUI
-- 🛠 Swift frameworks (RealityKit, ARKit, CoreML etc.)
-- 💅🏽 Core CSS
+- ⚡️ C++
+- 🦄 HTML + ▲ CSS3
+- 🦅 Github
+- 🛠 Bootstrap
+- 💅🏽 Core Js
 - ✨ UI/UX with Figma/Sketch
-- 🦄 TailwindCSS
-- 🐚 Python Flask
+- ⚛️ React
+- 🐚 Python 
 
 <br/>
 
 ---
 
-<img alt="Coder gif" src="https://media.giphy.com/media/Qa4KtB03ixJrmHw7Ti/giphy.gif" align="right"/>
+<img alt="Coder gif" src="[https://media.giphy.com/media/Qa4KtB03ixJrmHw7Ti/giphy.gif](https://media3.giphy.com/media/eV08lydIMcTftXX3vi/giphy.gif?cid=ecf05e4723gfmig09g2680qebqxpzrzunbk3gwm6wqvpy2x2&rid=giphy.gif&ct=g)" align="right"/>
 
 ### Loves:
 
