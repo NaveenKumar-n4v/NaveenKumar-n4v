@@ -21,7 +21,7 @@ I am Naveenkumar (He/Him). I'm 21 and come from Chennai, India. I'm an adept ğŸ«
 
 ---
 
-<img alt="Coder gif" src="[https://media.giphy.com/media/Qa4KtB03ixJrmHw7Ti/giphy.gif](https://media3.giphy.com/media/eV08lydIMcTftXX3vi/giphy.gif?cid=ecf05e4723gfmig09g2680qebqxpzrzunbk3gwm6wqvpy2x2&rid=giphy.gif&ct=g)" align="right"/>
+<img alt="Coder gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI1ZTIzZTdhNWRlNTg3ODViZmNmZWFmYWM5ZTU5Zjk1NGJkNWQwZSZjdD1n/eV08lydIMcTftXX3vi/giphy.gif" align="right"/>
 
 ### Loves:
 
