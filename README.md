@@ -1,6 +1,6 @@
 # Hello y'all! 👋🏽
 
-I am Naveenkumar (He/Him). I'm 23 and I come from Chennai, India. I'm an adept 🫀 Competitive programmer and web developer architecting meaningful and elegant applications on the web. I'm also an educator of data structures and algorithms. ☄️I love to code and strive to make that possible in every product I develop/design. Cheers! 🍻
+I am Naveenkumar (He/Him). I'm 24 and I come from Chennai, India. I'm an adept 🫀 Competitive programmer and web developer architecting meaningful and elegant applications on the web. I'm also an educator of data structures and algorithms. ☄️I love to code and strive to make that possible in every product I develop/design. Cheers! 🍻
 
 ---
 
