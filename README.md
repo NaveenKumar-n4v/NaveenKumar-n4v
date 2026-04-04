@@ -40,6 +40,6 @@ I am Naveenkumar (He/Him). I'm 24 and I come from Chennai, India. I'm an adept �
 
 ### Contact:
 
-<span>[📷 Instagram](https://www.instagram.com/nodotsandunderscores/)</span>
+<span>[📷 Instagram](https://www.instagram.com/n0d0tsandundersc0res/)</span>
 <span>[🐦 Twitter](https://twitter.com/n4v33n1)</span>
-<span>[📝 LinkedIn](https://www.linkedin.com/in/naveenkumar-s-771aa620b/)</span>
+<span>[📝 LinkedIn](https://www.linkedin.com/in/naveenkumar-suresh-771aa620b/)</span>
