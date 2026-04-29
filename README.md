@@ -4,8 +4,10 @@ I am Naveenkumar (He/Him). I'm 24 and I come from Chennai, India. I'm an adept ğ
 
 ---
 
-<img alt="Coder gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right"/>
-
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
+     align="right"
+     style="width:300px; height:200px; object-fit:cover;" />
+     
 ### Tools:
 
 - âš¡ï¸ C++
@@ -21,7 +23,9 @@ I am Naveenkumar (He/Him). I'm 24 and I come from Chennai, India. I'm an adept ğ
 
 ---
 
-<img alt="Coder gif" src="https://giffiles.alphacoders.com/215/215942.gif" align="right"/>
+<img src="https://giffiles.alphacoders.com/215/215942.gif"
+     align="right"
+     style="width:300px; height:200px; object-fit:cover;" />
 
 ### Loves:
 
