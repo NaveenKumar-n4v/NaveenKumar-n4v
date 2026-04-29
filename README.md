@@ -21,7 +21,7 @@ I am Naveenkumar (He/Him). I'm 24 and I come from Chennai, India. I'm an adept ð
 
 ---
 
-<img alt="Coder gif" src="https://gifs.alphacoders.com/gifs/view/222055" align="right"/>
+<img alt="Coder gif" src="https://giffiles.alphacoders.com/215/215942.gif" align="right"/>
 
 ### Loves:
 
