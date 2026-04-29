@@ -21,7 +21,7 @@ I am Naveenkumar (He/Him). I'm 24 and I come from Chennai, India. I'm an adept ð
 
 ---
 
-<img alt="Coder gif" src="https://makeagif.com/gif/reckoning-episode-8-cinematic-valorant-4V_zCV" align="right"/>
+<img alt="Coder gif" src="https://gifs.alphacoders.com/gifs/view/222055" align="right"/>
 
 ### Loves:
 
