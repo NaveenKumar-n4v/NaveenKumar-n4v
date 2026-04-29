@@ -1,13 +1,15 @@
 # Hello y'all! 👋🏽
 
-I am Naveenkumar (He/Him). I'm 24 and I come from Chennai, India. I'm an adept 🫀 Competitive programmer and web developer architecting meaningful and elegant applications on the web. I'm also an educator of data structures and algorithms. ☄️I love to code and strive to make that possible in every product I develop/design. Cheers! 🍻
+I am Naveenkumar (He/Him). I'm 24 and I come from Chennai, India.  
+I'm a 🫀 Competitive programmer and web developer who loves building elegant and meaningful applications.  
+I also teach Data Structures & Algorithms. ☄️  
 
 ---
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
-     align="right"
-     style="width:300px; height:200px; object-fit:cover;" />
-     
+<table>
+<tr>
+<td width="70%" valign="top">
+
 ### Tools:
 
 - ⚡️ C++
@@ -19,13 +21,19 @@ I am Naveenkumar (He/Him). I'm 24 and I come from Chennai, India. I'm an adept �
 - ⚛️ React
 - 🐚 Python 
 
-<br/>
+</td>
+
+<td width="30%" valign="top">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" style="border-radius:10px;" />
+</td>
+</tr>
+</table>
 
 ---
 
-<img src="https://giffiles.alphacoders.com/215/215942.gif"
-     align="right"
-     style="width:300px; height:200px; object-fit:cover;" />
+<table>
+<tr>
+<td width="70%" valign="top">
 
 ### Loves:
 
@@ -38,12 +46,20 @@ I am Naveenkumar (He/Him). I'm 24 and I come from Chennai, India. I'm an adept �
 - 📱 New/Futuristic tech
 - 😋 Biriyani
 
-<br/>
+</td>
+
+<td width="30%" valign="top">
+<img src="https://giffiles.alphacoders.com/215/215942.gif" width="100%" style="border-radius:10px;" />
+</td>
+</tr>
+</table>
 
 ---
 
 ### Contact:
 
-<span>[📷 Instagram](https://www.instagram.com/n0d0tsandundersc0res/)</span>
-<span>[🐦 Twitter](https://twitter.com/n4v33n1)</span>
-<span>[📝 LinkedIn](https://www.linkedin.com/in/naveenkumar-suresh-771aa620b/)</span>
+[📷 Instagram](https://www.instagram.com/n0d0tsandundersc0res/)  
+[🐦 Twitter](https://twitter.com/n4v33n1)  
+[📝 LinkedIn](https://www.linkedin.com/in/naveenkumar-suresh-771aa620b/)
+
+---
